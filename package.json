@@ -1,6 +1,6 @@
 {
   "name": "homebridge-vorwerk-mykobold",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "A Vorwerk Kobold VR200 and VR300 vacuum robot plugin for homebridge.",
   "author": "carlambroselli",
   "license": "MIT",
