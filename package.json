@@ -1,8 +1,8 @@
 {
-  "name": "homebridge-vorwerk",
+  "name": "homebridge-vorwerk-mykobold",
   "version": "0.4.0",
   "description": "A Vorwerk Kobold VR200 and VR300 vacuum robot plugin for homebridge.",
-  "author": "nicoh88",
+  "author": "carlambroselli",
   "license": "MIT",
   "main": "index.js",
   "keywords": [
@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nicoh88/homebridge-vorwerk.git"
+    "url": "git://github.com/carlambroselli/homebridge-vorwerk.git"
   },
   "bugs": {
-    "url": "https://github.com/nicoh88/homebridge-vorwerk/issues"
+    "url": "https://github.com/carlambroselli/homebridge-vorwerk/issues"
   },
-  "homepage": "https://github.com/nicoh88/homebridge-vorwerk#readme",
+  "homepage": "https://github.com/carlambroselli/homebridge-vorwerk#readme",
   "dependencies": {
     "node-kobold-oauth": ">=0.2.0",
     "debug": "^2.2.0"
